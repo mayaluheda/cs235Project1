@@ -1,0 +1,2 @@
+birthday: February 11	2006
+ran 20 times using -1 as active and -1 as control using this version of the repository: https://github.com/mlsmzk/tiktok-like-experiment/commit/604992a033cd1b794ef3b9862d084a5b489f214b 
