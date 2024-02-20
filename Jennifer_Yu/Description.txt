@@ -1,3 +1,0 @@
-The folder contains 
-  1. 40 data files collected using group 2's code with 18 years old account. Both control and active are collected through -1/control runs.
-  2. code for post attribution reappearance analysis
